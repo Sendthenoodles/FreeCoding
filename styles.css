@@ -8,27 +8,26 @@ body {
   font-family: 'Lora', serif;
 }
 
-.title {
-  background-color: #FFEBD2;
 
-}
+
 .box {
   background-color: white;
   padding-left: 20px;
+    background-color: #FFEBD2;
 }
 
 .registration {
   background-color: #FFA364;
   float: left;
-  width: 550px;
-  height: 620px;
+  width: 675px;
+  height: 800px;
 }
 
 .login {
   background-color: #AF4F41;
   float: left;
-  width: 500px;
-  height: 620px;
+  width: 675px;
+  height: 800px;
 }
 
 .firstTitle {
@@ -143,6 +142,6 @@ input[type=submit]:hover {
   margin-top: 10px;
 }
 #footer {
-  margin-top: 10%;
+  margin-top: 30%;
   margin-left: 95%;
 }
